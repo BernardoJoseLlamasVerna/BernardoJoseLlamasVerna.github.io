@@ -31,6 +31,8 @@ In this personal page you can find some of my public projects, interests and a b
 
 * **Programming**: Python, SQL, Java, R, PHP, JavaScript. 
 
+* **NLP**: LangChain. 
+
 * **Cloud**: Azure and AWS.
 
 * **ETL**: Apache Beam. 
@@ -39,9 +41,12 @@ In this personal page you can find some of my public projects, interests and a b
 
 * **Soft skills**: Problem solving, teamwork, communication and creativity. 
 
+# Languages
 
-# Projects
+* **English** (C2). 
+* **Portuguese** (C2). 
 
+# Personal Projects
 
 * [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html)
 
