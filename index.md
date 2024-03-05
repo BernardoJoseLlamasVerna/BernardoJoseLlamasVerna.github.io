@@ -39,12 +39,9 @@ In this personal page you can find some of my public projects, interests and a b
 
 * **IDE's**. Visual Studio and IntelliJ.
 
-* **Soft skills**: Problem solving, teamwork, communication and creativity. 
+* **Languages**. English (C2), Portuguese (C2).
 
-# Languages
-
-* **English** (C2). 
-* **Portuguese** (C2). 
+* **Soft skills**: Problem solving, teamwork, communication and creativity.
 
 # Personal Projects
 
