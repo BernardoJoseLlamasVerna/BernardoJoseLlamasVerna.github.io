@@ -22,7 +22,6 @@ In this personal page you can find some of my public projects, interests and a b
 | Masters in Data Science    | UCJC                              | 2022 |
 | University Expert in DevOps & Cloud    | UNIR                              | 2022 |
 | Proficiency Certificate in Portuguese for Foreigners (Celpe-Bras) | Ministério de Educação do Brasil   | 2019 |
-| Proficiency Certificate in Portuguese for Foreigners (Celpe-Bras) | Ministério de Educação do Brasil   | 2019 |
 | IFCD0210: Web Technology Application Development, Web Application Development     | Ki-Works | 2017 |
 | Physics           | Universidad Complutense de Madrid | 2013 |
 
