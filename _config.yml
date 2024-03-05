@@ -1,4 +1,6 @@
 title: Bernardo Llamas Verna
-logo: assets/img/headshot_circle.png
-show_downloads: true
+logo: /assets/img/foto.png
+description: Data Analyst | NLP | Python Developer
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
