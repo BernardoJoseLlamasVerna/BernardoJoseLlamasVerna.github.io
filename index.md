@@ -8,7 +8,7 @@ In this personal page you can find some of my public projects, interests and a b
 |                       |              |                  |
 |:----------------------|:-------------|:-----------------|
 |Data Analyst           | Sngular      | 2018-> currently |
-|App Developer          | Quadram      | 2018-2028        |
+|App Developer          | Quadram      | 2018-2018        |
 |Web Developer          | iAhorro      | 2017-2018        |
 |Web Developer          | Tictum       | 2017-2017        |
 |COBOL Developer        | Mnemo        | 2015-2016        |
