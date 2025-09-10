@@ -4,12 +4,20 @@ layout: default
 
 ## About me
 
-My name is Bernardo and I was born in Caracas, Venezuela, in 1988 but raised in Madrid since 1992. In 2006 I started my studies in Physics at Universidad Complutense de Madrid finishing the five years degree in 2013. In 2014, I combined my first job as a COBOL developer studying a Master's in Geophysics and Meteorology at the University of Granada.
+Hello there! If you're reading this, it means you're interested in my profile and want to know a little about me.
 
-Nearly 2 years later, I left COBOL for transitioning towards software development applied to build webs and apps, specializing in backend development.
+My name is Bernardo Llamas. I was born in Caracas, Venezuela, in 1988, but I grew up in Madrid, Spain, from 1992 onwards. 
 
-Since 2021, encouraged by combining my software developer skills with the analytical capacity inherited from my Physics studies, I changed my role as a Data Analyst, particularly interested in time series analysis and increasingly in everything related to NLP and LLMs. 
+My family roots are in Spain and Italy, making my home life a mix of Venezuelan, Spanish, and Italian traditions and cuisine.
 
-Regarding my personal life, I dedicate my free time to reading (literature, politics, scientific outreach, etc.), learning languages, and going on bike excursions.
+From a very early age, I developed a strong interest in all things related to science, especially space exploration. This interest led me to pursue Physics at the Complutense University of Madrid (UCM), despite initially considering Architecture or Telecommunications Engineering.
+
+In 2014, I landed my first job in the technology sector as a COBOL developer, while simultaneously studying for a Master's degree in Geophysics and Meteorology at the University of Granada (UGR).
+
+After two years, I transitioned from COBOL development to app and web development, specializing in Backend development.
+
+Since 2021, I decided to combine my software development skills with the analytical abilities I gained during my Physics studies. I've been directing my career towards the Data sector, focusing my interest on time series and prediction, AI and Machine Learning, as well as NLP and LLMs.
+
+In my personal life, I enjoy spending my free time reading, sharing good moments with friends and family, hiking in the mountains, and cycling.
 
 [back](./)
