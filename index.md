@@ -1,6 +1,6 @@
 ---
 
-In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and professional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/){:target="_blank" rel="noopener"}. Also, a more narrative curriculum can be found [here](./aboutMe.html){:target="_blank" rel="noopener"}.
+In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and professional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/){:target="_blank" rel="noopener"}. Also, a more narrative curriculum can be found [here](./about_me.html){:target="_blank" rel="noopener"}.
 
 
 # Experience
@@ -27,15 +27,17 @@ In this personal page you can find some of my public projects, interests and a b
 
 # Skills
 
-* **Analytics and Visualization tools**: PowerBI, Jupyter notebooks. 
+* **Analytics and Visualization tools**: PowerBI, Looker, Jupyter notebooks. 
 
 * **Programming**: Python, SQL, Java, R, PHP, JavaScript. 
 
-* **NLP**: LangChain. 
+* **NLP**: LangChain, LangSmith. 
 
 * **Cloud**: Azure and AWS.
 
-* **ETL**: Apache Beam. 
+* **ETL**: Airflow, Apache Beam.
+
+* **MLOps**: MLFlow.
 
 * **IDE's**. Visual Studio and IntelliJ.
 
@@ -54,6 +56,6 @@ In this personal page you can find some of my public projects, interests and a b
 
 # Interests
 
-I enjoy most of my time being outdoors. I love hiking,rock climbing and gravel biking.
+I enjoy most of my time being outdoors. I love hiking, rock climbing and gravel biking.
 
 At home I spend my time reading books. I enjoy contemporary literature, politics and popular science.
