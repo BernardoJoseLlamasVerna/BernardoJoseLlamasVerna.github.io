@@ -1,6 +1,6 @@
 ---
 
-In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and profesional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/). Also, a more narrative curriculum can be found [here](./aboutMe.html).
+En esta página personal puedes encontrar algunos de mis proyectos públicos, intereses y un breve currículum. Si deseas más detalles sobre mi educación y experiencia profesional, puedes echar un vistazo a mi [perfil de LinkedIn](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/ "LinkedIn Profile" target="_blank"). Además, puedes encontrar un currículum más narrativo [aquí](./aboutMe.html "About Me" target="_blank").
 
 
 # Experience
@@ -45,15 +45,15 @@ In this personal page you can find some of my public projects, interests and a b
 
 # Personal Projects
 
-* [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html)
+* [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html "Madrid Elections Analysis" target="_blank")
 
-* [Thesis: Analysis of Spain's electricity demand 2014-2021.](https://github.com/BernardoJoseLlamasVerna/tfm_data_science)
+* [Thesis: Analysis of Spain's electricity demand 2014-2021.](https://github.com/BernardoJoseLlamasVerna/tfm_data_science "Electricity Demand Thesis" target="_blank")
 
-* [Thesis: Surface composition analysis of Vesta based on data provided by the DAWN space mission.](./TesisFinaldeMaster_Vesta.pdf)
+* [Thesis: Surface composition analysis of Vesta based on data provided by the DAWN space mission.](./TesisFinaldeMaster_Vesta.pdf "Vesta Thesis" target="_blank")
 
 
 # Interests
 
-I enjoy most of my time being outdoors. I love hiking,rock climbing and gravel biking.
+I enjoy most of my time being outdoors. I love hiking, rock climbing and gravel biking.
 
 At home I spend my time reading books. I enjoy contemporary literature, politics and popular science.
