@@ -4,6 +4,7 @@ In this personal page you can find some info about me, my interests, some of my 
 
 
 # Experience
+
 |                       |              |                  |
 |:----------------------|:-------------|:-----------------|
 |Data Analyst           | Sngular      | 2018-> currently |
@@ -18,6 +19,7 @@ View more details [here](./job_experience.html){:target="_blank" rel="noopener"}
 Download CV [Bernardo_Llamas_Verna_CV_2025.pdf](./Bernardo_Llamas_Verna_CV_2025.pdf){:target="_blank" rel="noopener"}
 
 # Education
+
 |                   |                                   |      |
 |:------------------|:----------------------------------|:-----|
 | Masters in Data Science    | UCJC                              | 2022 |
@@ -27,6 +29,7 @@ Download CV [Bernardo_Llamas_Verna_CV_2025.pdf](./Bernardo_Llamas_Verna_CV_2025.
 | Physics           | Universidad Complutense de Madrid | 2013 |
 
 # Skills
+
 * **Analytics and Visualization tools**: PowerBI, Looker, Jupyter notebooks. 
 
 * **Programming**: Python, SQL, Java, R, PHP, JavaScript. 
@@ -46,6 +49,7 @@ Download CV [Bernardo_Llamas_Verna_CV_2025.pdf](./Bernardo_Llamas_Verna_CV_2025.
 * **Soft skills**: Problem solving, teamwork, communication and creativity.
 
 # Personal Projects
+
 * [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html){:target="_blank" rel="noopener"}
 
 * [Thesis: Analysis of Spain's electricity demand 2014-2021.](https://github.com/BernardoJoseLlamasVerna/tfm_data_science){:target="_blank" rel="noopener"}
@@ -54,6 +58,7 @@ Download CV [Bernardo_Llamas_Verna_CV_2025.pdf](./Bernardo_Llamas_Verna_CV_2025.
 
 
 # Interests
+
 I enjoy most of my time being outdoors. I love hiking, rock climbing and gravel biking.
 
 At home I spend my time reading books. I enjoy contemporary literature, politics and popular science.
