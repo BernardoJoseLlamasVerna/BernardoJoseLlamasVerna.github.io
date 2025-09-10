@@ -1,6 +1,6 @@
 ---
 
-In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and profesional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/ target="_blank"). Also, a more narrative curriculum can be found [here](./aboutMe.html).
+In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and profesional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/){:target="_blank" rel="noopener"}. Also, a more narrative curriculum can be found [here](./aboutMe.html).
 
 
 # Experience
