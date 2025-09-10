@@ -1,6 +1,6 @@
 ---
 
-In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and profesional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/){:target="_blank" rel="noopener"}. Also, a more narrative curriculum can be found [here](./aboutMe.html).
+In this personal page you can find some of my public projects, interests and a brief curriculum. If you want more details about my education and professional experience you can take a look on my [linkedin profile](https://www.linkedin.com/in/bernardo-llamas-verna-55bb5343/){:target="_blank" rel="noopener"}. Also, a more narrative curriculum can be found [here](./aboutMe.html){:target="_blank" rel="noopener"}.
 
 
 # Experience
@@ -45,11 +45,11 @@ In this personal page you can find some of my public projects, interests and a b
 
 # Personal Projects
 
-* [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html)
+* [Madrid elections analysis](https://bernardojosellamasverna.github.io/Madrid-Elections-Book-Resume/Madrid_Elections_2021_Resume.html){:target="_blank" rel="noopener"}
 
-* [Thesis: Analysis of Spain's electricity demand 2014-2021.](https://github.com/BernardoJoseLlamasVerna/tfm_data_science)
+* [Thesis: Analysis of Spain's electricity demand 2014-2021.](https://github.com/BernardoJoseLlamasVerna/tfm_data_science){:target="_blank" rel="noopener"}
 
-* [Thesis: Surface composition analysis of Vesta based on data provided by the DAWN space mission.](./TesisFinaldeMaster_Vesta.pdf)
+* [Thesis: Surface composition analysis of Vesta based on data provided by the DAWN space mission.](./TesisFinaldeMaster_Vesta.pdf){:target="_blank" rel="noopener"}
 
 
 # Interests
