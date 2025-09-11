@@ -20,9 +20,7 @@ These projects spanned various areas, from Data Analysis to the application of G
 ### Extract Skills (2024 - 2024)
 The 'Extract Skills' project began as an internal Sngular initiative for its own HR team. The goal was to streamline the process of finding the best internal candidates for a given job opening by leveraging the power of Generative AI.
 
-My initial role involved developing a prompt to instruct a Generative AI on how to extract the required skills from a job description.
-
-Once the skills were extracted, and to mitigate the variability in the LLM's responses, I utilized NLP tools (specifically Jaccard similarity) to identify skills most akin to those in Sngular's database, which are linked to employee profiles.
+My initial role involved developing a prompt to instruct a Generative AI on how to extract the required skills from a job description. Once the skills were extracted, and to mitigate the variability in the LLM's responses, I utilized NLP tools (specifically Jaccard similarity) to identify skills most akin to those in Sngular's database, which are linked to employee profiles.
 
 LangChain and LangSmith tools were employed for connecting to and calling the LLM, for developing and testing the prompt, and to ensure a consistent JSON output format.
 
@@ -30,4 +28,25 @@ LangChain and LangSmith tools were employed for connecting to and calling the LL
 
 **Rol:** LLM Engineer, Prompt Engineer, Software Developer.
 
-[back](./)
+### Pfizer (2021 - 2023)
+(TODO)
+
+**Technologies:** Python, Docker, NLP, Dataiku, PySpark, MLFlow, AWS.
+
+**Rol:** ML Engineer, Data Analyst, Software Developer.
+
+### 3-2-1 Qatar Olympic & Sports Museum (2019 - 2020)
+(TODO)
+
+**Technologies:** PHP, WordPress, Unity.
+
+**Rol:** Software Developer.
+
+### HBWell (2018 - 2019)
+(TODO)
+
+**Technologies:** PHP, Yii, MySQL.
+
+**Rol:** Software Developer.
+
+[**< Back**](./)
