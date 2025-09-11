@@ -46,7 +46,9 @@ My roles at Pfizer were quite varied and complementary.
 ---
 
 ### 3-2-1 Qatar Olympic & Sports Museum (2019 - 2020)
-(TODO)
+I developed a WordPress CMS to host the multimedia content for the interactives at the 3-2-1 Qatar Olympic & Sports Museum. 
+
+My tasks involved designing the front-end where the Unity developers would access images, videos, audio, and text, as well as defining the JSON format the CMS would need to return so it could be read by the Unity-developed interactives.
 
 **Technologies:** PHP, WordPress, Unity.
 
