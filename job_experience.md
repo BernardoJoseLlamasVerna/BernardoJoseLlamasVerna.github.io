@@ -7,7 +7,7 @@ layout: default
 Here you can find a detailed timeline of my professional experience in each company and project I've been involved in, including the technologies I used.
 
 <details>
-  <summary>**Sngular (2018 - current)**</summary>
+  <summary>## Sngular (2018 - current)</summary>
 
 ### Googlers Team (2024 - current)
 Following the formalization of a strategic partnership with Google, Sngular established a team of GCP technology experts.Their mission was to develop Proofs of Concept (PoCs) for prospective clients. 
