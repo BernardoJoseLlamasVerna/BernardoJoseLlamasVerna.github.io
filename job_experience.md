@@ -33,7 +33,11 @@ LangChain and LangSmith tools were employed for connecting to and calling the LL
 ---
 
 ### Pfizer (2021 - 2023)
-(TODO)
+My roles at Pfizer were quite varied and complementary.
+
+**Customer Screening:** This project allowed potential clients to find products in Pfizer's catalog that were most similar to what they were looking for. Using NLP tools, we'd read the client's attached file, identify key fields (molecule, dosage, format, etc.), and return the product(s) most similar to their request.
+
+**Shortages:** This project leveraged various data sources—pharmaceutical tender data, drug prices, historical award information, etc.—to estimate how long competitors might be out of the running for certain medications and to set optimal prices for each tender. My responsibilities here included pipeline maintenance and improvement, preparing regular EDA reports on the data, and training models with MLFlow.
 
 **Technologies:** NLP, Dataiku, PySpark, MLFlow, AWS, Python, Docker.
 
