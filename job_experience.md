@@ -68,7 +68,7 @@ I developed and maintained the HBWell app, which is focused on the beauty and he
 ## Quadram (2018 - 2018)
 
 ### Tappear (2018 - 2018)
-I developed the Tappear app from scratch, designed as a social media platform for the hospitality sector. My responsibilities included designing the database and endpoints, as well as creating an admin interface for the app to allow for easy management and content updates.
+I developed the Tappear app from scratch, designed as a social media platform for the hospitality sector. My responsibilities included designing the database, endpoints, unit tests, as well as creating an admin interface for the app to allow for easy management and content updates.
 
 **Technologies:** PHP, Laravel, VueJS, MySQL, Swagger.
 
@@ -79,7 +79,7 @@ I developed the Tappear app from scratch, designed as a social media platform fo
 ## iAhorro (2017 - 2018)
 
 ### Web Developer (2017 - 2018)
-(TODO)
+I handled maintenance and feature development for the iAhorro company website, including modifying queries to personalize offers for potential clients.
 
 **Technologies:** PHP, Laravel, Angular 2, MySQL.
 
@@ -90,7 +90,7 @@ I developed the Tappear app from scratch, designed as a social media platform fo
 ## Mnemo (2017 - 2017)
 
 ### COBOL Developer in Liberbank (2017 - 2017)
-(TODO)
+I executed the construction and testing phases of the project, focusing on integrating the guarantee application into Liberbank's platform.
 
 **Technologies:** COBOL, CICS-DB2.
 
@@ -101,7 +101,7 @@ I developed the Tappear app from scratch, designed as a social media platform fo
 ## Accenture (2015 - 2016)
 
 ### COBOL Developer in BBVA (2015 - 2016)
-(TODO)
+For one year, I worked as a COBOL-CICS-DB2 programmer for Coritel at BBVA's offices in Las Tablas (Madrid). My tasks varied, ranging from process improvements to reduce machine consumption to testing the integration of Caixa Catalunya bank into BBVA's operating system.
 
 **Technologies:** COBOL, CICS-DB2.
 
