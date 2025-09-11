@@ -35,7 +35,7 @@ LangChain and LangSmith tools were employed for connecting to and calling the LL
 ### Pfizer (2021 - 2023)
 (TODO)
 
-**Technologies:** Python, Docker, NLP, Dataiku, PySpark, MLFlow, AWS.
+**Technologies:** NLP, Dataiku, PySpark, MLFlow, AWS, Python, Docker.
 
 **Rol:** ML Engineer, Data Analyst, Software Developer.
 
@@ -56,6 +56,50 @@ LangChain and LangSmith tools were employed for connecting to and calling the LL
 **Technologies:** PHP, Yii, MySQL.
 
 **Rol:** Software Developer.
+
+---
+
+## Quadram (2018 - 2018)
+
+### Tappear (2018 - 2018)
+(TODO)
+
+**Technologies:** PHP, Laravel, VueJS, MySQL.
+
+**Rol:** Software Developer.
+
+---
+
+## iAhorro (2017 - 2018)
+
+### Web Developer (2017 - 2018)
+(TODO)
+
+**Technologies:** PHP, Laravel, Angular 2, MySQL.
+
+**Rol:** Software Developer.
+
+---
+
+## Mnemo (2017 - 2017)
+
+### COBOL Developer in Liberbank (2017 - 2017)
+(TODO)
+
+**Technologies:** COBOL, CICS-DB2.
+
+**Rol:** COBOL Developer.
+
+---
+
+## Accenture (2015 - 2016)
+
+### COBOL Developer in BBVA (2015 - 2016)
+(TODO)
+
+**Technologies:** COBOL, CICS-DB2.
+
+**Rol:** COBOL Developer.
 
 ---
 
