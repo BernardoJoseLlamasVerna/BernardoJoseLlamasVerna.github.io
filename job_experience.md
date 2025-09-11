@@ -68,9 +68,9 @@ I developed and maintained the HBWell app, which is focused on the beauty and he
 ## Quadram (2018 - 2018)
 
 ### Tappear (2018 - 2018)
-(TODO)
+I developed the Tappear app from scratch, designed as a social media platform for the hospitality sector. My responsibilities included designing the database and endpoints, as well as creating an admin interface for the app to allow for easy management and content updates.
 
-**Technologies:** PHP, Laravel, VueJS, MySQL.
+**Technologies:** PHP, Laravel, VueJS, MySQL, Swagger.
 
 **Rol:** Software Developer.
 
