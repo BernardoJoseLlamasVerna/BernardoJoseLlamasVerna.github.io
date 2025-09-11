@@ -57,7 +57,7 @@ My tasks involved designing the front-end where the Unity developers would acces
 ---
 
 ### HBWell (2018 - 2019)
-(TODO)
+I developed and maintained the HBWell app, which is focused on the beauty and health sector. My responsibilities included backend development using PHP and Yii2, as well as frontend development with Ionic.
 
 **Technologies:** PHP, Yii, MySQL.
 
