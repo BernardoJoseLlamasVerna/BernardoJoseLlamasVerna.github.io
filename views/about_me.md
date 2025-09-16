@@ -20,4 +20,4 @@ Since 2021, I decided to combine my software development skills with the analyti
 
 In my personal life, I enjoy spending my free time reading, sharing good moments with friends and family, hiking in the mountains, and cycling.
 
-[back](./)
+[back](../)
